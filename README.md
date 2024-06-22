@@ -1,6 +1,5 @@
 ![HEADER](assets/HEADER.png)
-![](https://komarev.com/ghpvc/?username=Pathakdarshan12)
-
+![](https://komarev.com/ghpvc/?username=Pathakdarshan12&style=flat-square)
 <!--
 **Pathakdarshan12/Pathakdarshan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
