@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <img src="https:c//github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="c" width="50" height="50"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="50" height="50"/>
     <img src="https:c//github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/>  
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="50" height="50"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark" alt="flask" width="50" height="50"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark" alt="Flutter" width="50" height="50"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark" alt="dart" width="50" height="50"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="flask" width="50" height="50"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" alt="Flutter" width="50" height="50"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" alt="dart" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/>     
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/>
