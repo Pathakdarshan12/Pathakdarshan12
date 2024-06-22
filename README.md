@@ -1,4 +1,5 @@
-## Hi there 👋
+## Darshan Pathak
+![](https://komarev.com/ghpvc/?username=Pathakdarshan12)
 
 <!--
 **Pathakdarshan12/Pathakdarshan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
