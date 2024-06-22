@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [3]: https://www.facebook.com/your_contact_info
 
 
-Hope this was helpful!!
+Contact Me
 
 [1]: http://www.github.com/nomi811
 [2]: https://www.linkedin.com/in/nomi-vos-097aa082
