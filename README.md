@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="50" height="50"/>
-    <img src="https:c//github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/>  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/>  
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="50" height="50"/>
