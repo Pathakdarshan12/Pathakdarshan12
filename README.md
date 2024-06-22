@@ -1,4 +1,4 @@
-![HEADER](assets/Header.png)
+![HEADER](assets/HEADER.png)
 ![](https://komarev.com/ghpvc/?username=Pathakdarshan12)
 
 <!--
