@@ -15,17 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Contact Me
-
-[1]: http://www.github.com/nomi811
-[2]: https://www.linkedin.com/in/nomi-vos-097aa082
-[3]: https://www.facebook.com/nomi.vos
-[4]: https://www.instagram.com/pathakdarshan12/
-
----
-
-[![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][3]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
-[![linkedin](https://github.com/edent/SuperTinyIcons/blob/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/instagram.svg#L4)][4]
-
----
+<!-- CONTACTO -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/pathakdarshan12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+<a href="https://x.com/_Pathak_Darshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pathakdarshan12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+</p>
