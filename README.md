@@ -2,7 +2,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 ![HEADER](assets/HEADER.png)
-![](https://komarev.com/ghpvc/?username=Pathakdarshan12&style=plastic)
 <!--
 **Pathakdarshan12/Pathakdarshan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,8 +54,9 @@ Here are some ideas to get you started:
 <a href="mailto:pathakdarshan12@gmail.com" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="30" width="40" />
 </a>
-
 </p>
+
+![](https://komarev.com/ghpvc/?username=Pathakdarshan12&style=plastic)
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
