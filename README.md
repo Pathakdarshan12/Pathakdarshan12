@@ -1,5 +1,7 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
+![HEADER](assets/HEADER.png)
 <!--
 **Pathakdarshan12/Pathakdarshan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
