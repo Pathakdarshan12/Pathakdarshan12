@@ -1,5 +1,5 @@
 <!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<!-- <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 ![HEADER](assets/HEADER.png)
 <!--
@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Pathakdarshan12&style=plastic)
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
-<!-- <div style="display:grid;align-items:center;justify-content:center">
+<div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Pathakdarshan12&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pathakdarshan12&layout=compact&theme=gotham&langs_count=8"/>
-</div> -->
+</div>
 
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<!-- GIF FOOTER 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">-->
 
